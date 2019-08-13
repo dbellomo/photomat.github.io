@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bulma-clean-theme (0.5.2)
+    bulma-clean-theme (0.5.5)
       jekyll (~> 3.8)
       jekyll-feed (~> 0.11)
       jekyll-paginate (~> 1.1)

@@ -1,0 +1,23 @@
+- name: Integrantes
+  link: /integrantes/
+- name: Investigación y desarrollo
+  link: #
+  dropdown:
+    - name: Desarrollo de parches dermatológicos para cicatrización y desinfección de heridas
+      link: /parches/
+    - name: Desarrollo, caracterización y aplicación de hidrogeles como sistemas de liberación controlada de fármacos
+    - link: /hidrogeles/
+- name: Desarrollo de equipos y técnicas
+  link: /deyt/
+- name: Equimapiento
+  link: /equipamiento/
+- name: Instituciones que nos financian
+  link: /iqnf/
+- name: colaboraciones
+  link: /colaboraciones/
+- name: Fotos grupales
+  link: /fotosgrupo/
+- name: Novedades
+  link: /novedades/
+- name: Publicaciones
+  link: /publicaciones/

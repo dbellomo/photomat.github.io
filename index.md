@@ -1,7 +1,8 @@
 ---
-title: Grupo de Fotoquímica y Materiales UNRC
-subtitle: PhotoMat
+title: Grupo de Fotoquímica y Materiales
+subtitle: PhotoMat<br>Universidad Nacional de Río Cuarto
 layout: page
+hero_height: is-fullheight
 callouts:
 show_sidebar: false
 hide_footer: true

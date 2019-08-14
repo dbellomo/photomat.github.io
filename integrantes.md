@@ -1,6 +1,6 @@
 ---
-title: PhotoMat
-subtitle: Integrantes
+title: Integrantes
+subtitle: Grupo de Fotoquímica y Materiales
 layout: page
 callouts:
 show_sidebar: false
@@ -10,7 +10,7 @@ hide_footer: true
 ### Investigadores Principales
 - [Chesta, Carlos A.](/chesta) (Dpto. Química, UNRC - Investigador Independiente CONICET)
 - [Gomez, M. Lorena](/gomez)  (Dpto. Química, UNRC - Investigadora Independiente CONICET)
-- Palacios, Rodrigo E. (Dpto. Química, UNRC  - Investigador Independiente CONICET)
+- [Palacios, Rodrigo E.](/palacios) (Dpto. Química, UNRC  - Investigador Independiente CONICET)
 
 ### Investigadores
 - Ibarra, Luis (Dpto. Biología Molecular, UNRC-  Investigador Asistente CONICET)
@@ -46,3 +46,5 @@ hide_footer: true
 - Solis, Claudia (Estudiante de Doctorado Química, graduada!)
 - Torres, Juan (Estudiante de Doctorado Química, graduado!)
 - Waiman, Carolina (Postdoc 2015-2017)
+
+#### Fotos Grupales

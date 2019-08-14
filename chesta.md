@@ -1,6 +1,6 @@
 ---
-title: PhotoMat
-subtitle: Dr. Carlos Chesta
+title: Dr. Carlos Chesta
+subtitle: Grupo de Fotoquímica y Materiales
 layout: page
 callouts:
 show_sidebar: false

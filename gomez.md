@@ -1,6 +1,6 @@
 ---
-title: PhotoMat
-subtitle: Dra. María Lorena Gómez
+title: Dra. María Lorena Gómez
+subtitle: Grupo de Fotoquímica y Materiales
 layout: page
 callouts:
 show_sidebar: false

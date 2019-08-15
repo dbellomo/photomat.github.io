@@ -6,16 +6,18 @@
     - name: Desarrollo de parches dermatológicos para cicatrización y desinfección de heridas
       link: /parches/
     - name: Desarrollo, caracterización y aplicación de hidrogeles como sistemas de liberación controlada de fármacos
-    - link: /hidrogeles/
-- name: Equipos y técnicas
-  link: /eyt/
+      link: /hidrogeles/
+    - name: Desarrolo de equipos y técnicas
+      link: /deyt/
 - name: Equipamiento
   link: /equipamiento/
 - name: Financiamiento
   link: /financiamiento/
-- name: colaboraciones
+- name: Colaboraciones
   link: /colaboraciones/
 - name: Novedades
   link: /novedades/
 - name: Publicaciones
   link: /publicaciones/
+- name: Contacto
+  link: /contacto/

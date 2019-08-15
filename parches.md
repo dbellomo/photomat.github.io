@@ -11,7 +11,7 @@ hide_footer: true
 Desarrollo de parches dermatológicos para cicatrización y desinfección de heridas.
 
 ### Integrantes
-Gonzalo Cagnetta, Antonela Gallastegui, Sol Martínez, Rodrigo Palacios, Carlos Chesta, Lorena Gómez.
+[Gonzalo Cagnetta](/cagnetta), [Antonela Gallastegui](/gallastegui), [Sol Martínez](/martinez), [Rodrigo Palacios](/palacios), [Carlos Chesta](/chesta), [Lorena Gómez](/gomez).
 
 ### Resumen
 > El presente proyecto propone el desarrollo de parches que faciliten la cicatrización de heridas y realicen la desinfección de la zona afectada sin emplear antibióticos.

@@ -14,6 +14,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/products/product1/</loc>
+<<<<<<< HEAD
 <lastmod>2019-08-14T20:55:56-03:00</lastmod>
 </url>
 <url>
@@ -23,6 +24,17 @@
 <url>
 <loc>http://localhost:4000/products/product3/</loc>
 <lastmod>2019-08-14T20:55:56-03:00</lastmod>
+=======
+<lastmod>2019-08-14T14:21:06-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/products/product2/</loc>
+<lastmod>2019-08-14T14:21:06-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/products/product3/</loc>
+<lastmod>2019-08-14T14:21:06-03:00</lastmod>
+>>>>>>> 05a888aa115ac8b849a06c756aab7d1728f5f7ee
 </url>
 <url>
 <loc>http://localhost:4000/chesta/</loc>
@@ -31,6 +43,7 @@
 <loc>http://localhost:4000/colaboraciones/</loc>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/equipamiento/</loc>
 </url>
 <url>
@@ -82,6 +95,53 @@
 <loc>http://localhost:4000/porcal/</loc>
 </url>
 <url>
+=======
+<loc>http://localhost:4000/contacto/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/equipamiento/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/financiamiento/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/gomez/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/integrantes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/landing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page-1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page-2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page-3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page-4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page-5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/palacios/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/parches/</loc>
+</url>
+<url>
+>>>>>>> 05a888aa115ac8b849a06c756aab7d1728f5f7ee
 <loc>http://localhost:4000/products/</loc>
 </url>
 <url>

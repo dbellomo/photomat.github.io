@@ -13,13 +13,13 @@ hide_footer: true
 - [Palacios, Rodrigo E.](/palacios) (Dpto. Química, UNRC  - Investigador Independiente CONICET)
 
 ### Investigadores
-- Ibarra, Luis (Dpto. Biología Molecular, UNRC-  Investigador Asistente CONICET)
-- Porcal, Gabriela (Dpto. Química, UNRC  - Investigadora Adjunta CONICET)
+- [Ibarra, Luis](/ibarra) (Dpto. Biología Molecular, UNRC-  Investigador Asistente CONICET)
+- [Porcal, Gabriela](/porcal) (Dpto. Química, UNRC  - Investigadora Adjunta CONICET)
 
 ### Postdocs
-- Martínez, Sol Romina (Dpto. Química, UNRC, CONICET)
-- Achilli, Estefanía Edith (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
-- Minudri Daniela (Dpto. Química, UNRC, CONICET)
+- [Martínez, Sol Romina](/martinez) (Dpto. Química, UNRC, CONICET)
+- [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
+- [Minudri Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
 
 ### Estudiantes Postgrado
 - Gallastegui, Antonela (Química, UNRC, CONICET)

@@ -49,7 +49,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: ""
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
@@ -65,3 +65,5 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
+lang: es_AR

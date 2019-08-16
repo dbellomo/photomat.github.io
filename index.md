@@ -1,7 +1,7 @@
 ---
 title: Grupo de Fotoquímica y Materiales
 subtitle: <b>PhotoMat</b><br>Universidad Nacional de Río Cuarto
-layout: index
+layout: page
 hero_height: is-fullheight
 callouts:
 show_sidebar: false

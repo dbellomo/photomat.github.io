@@ -19,6 +19,9 @@ layout: default
         <!-- <p class="subtitle is-5">e-mail: {{ page.email }}</p> -->
         <p> e-mail: {{ page.email }}</p>
         <p> Skype: {{ page.skype }}</p>
+        {% if page.telegram %}
+        <p> Telegram: {{ page.telegram }}</p>
+        {% endif %}
         <!-- <p class="subtitle is-5">Skype: {{ page.skype }}</p> -->
         {% if page.product_code %}
         <p class="subtitle is-5 has-text-right">{{ page.product_code }}</p>

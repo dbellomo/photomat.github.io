@@ -4,6 +4,7 @@ subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Investigadora Independiente CONICET
 layout: integrante
 image: /img/gomez.png
+cv: www.dropbox.com/s/7m6r8tg7qsis6ot/CV%20MLGomez.pdf
 orcid: 0000-0002-3542-1038
 email: mlgomez at exa.unrc.edu.ar
 skype: marialorenagomez

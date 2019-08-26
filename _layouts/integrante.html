@@ -4,17 +4,20 @@ layout: default
 
 <div class="columns is-multiline">
 
-    <div class="column is-3">
+    <div class="column is-2">
         <figure class="image is-4by5">
             <img src="{{ page.image }}" />
         </figure>
     </div>
 
     <div class="column is-6">
-        <!-- <p class="title is-3">{{ page.title }}</p> -->
-        <!-- <p class="subtitle is-3">{{ page.subtitle }}</p> -->
-        <p class="title is-3">{{ page.dpto }}</p>
-        <a href="https://orcid.org/{{ page.orcid }}">ORCID</a><br>
+        <!-- <p class="title is-4">{{ page.title }}</p> -->
+        <!-- <p class="subtitle is-4">{{ page.subtitle }}</p> -->
+        <!-- <p class="title is-3">{{ page.dpto }}</p> -->
+        <p> {{ page.title }} </p>
+        <p> {{ page.dpto }} </p>
+        <a href="https://{{ page.cv }}">CV - </a>
+        <a href="https://orcid.org/{{ page.orcid }}">ORCID - </a>
         <a href="https://scholar.google.com/citations?user={{ page.gscholar }}">Google Scholar</a>
         <!-- <p class="subtitle is-5">e-mail: {{ page.email }}</p> -->
         <p> e-mail: {{ page.email }}</p>

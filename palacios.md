@@ -3,6 +3,7 @@ title: Dr. Rodrigo Palacios
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Investigador Independiente CONICET
 image: /img/palacios.jpg
+cv: drive.google.com/file/d/1G1AZVgWfoX2YpnuV1kjbdD2UiVdXpxb0/view
 orcid: 0000-0002-7294-5690
 gscholar: oftPmBUAAAAJ
 email: rpalacios at exa.unrc.edu.ar

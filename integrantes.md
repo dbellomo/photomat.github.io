@@ -25,11 +25,11 @@ hide_footer: true
 - Gallastegui, Antonela (Química, UNRC, CONICET)
 - Spada, Ramiro (Química, UNRC, CONICET)
 - Ponzio, Rodrigo (Física, UBA, CONICET)
+- Cagnetta, Gonzalo (Química, UNRC)
+- Wendel, Ana (Física, UNRC)
 
 ### Estudiantes de Grado
-- Cagnetta, Gonzalo (Química, UNRC)
 - Forcone, Virginia (Física, UNRC)
-- Wendel, Ana (Física, UNRC)
 - Beauge, Lucia (Microbiología, UNRC)
 
 ### Miembros anteriores

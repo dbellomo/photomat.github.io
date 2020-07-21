@@ -14,11 +14,11 @@ hide_footer: true
 > Tel: +543584676195/523<br>
 >
 > Dr. Rodrigo Palacios<br>
-> Skype: rodpalacios - Telegram: @Rodrigo_P - email: rpalacios at exa.unrc.edu.ar<br>
+> Skype: rodpalacios - Telegram: @Rodrigo_P - email: rpalacios@exa.unrc.edu.ar<br>
 > [Perfil / Profile]( http://scholar.google.com.ar/citations?hl=en&user=oftPmBUAAAAJ)<br>
 >
 > Dr. Carlos Chesta<br>
-> Skype: cchesta - email: cchesta at exa.unrc.edu.ar<br>
+> Skype: cchesta - email: cchesta@exa.unrc.edu.ar<br>
 >
 > Dra. María Lorena Gómez<br>
-> Skype: marialorenagomez - email: mlgomez at exa.unrc.edu.ar
+> Skype: marialorenagomez - email: mlgomez@exa.unrc.edu.ar

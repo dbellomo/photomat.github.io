@@ -19,7 +19,7 @@ hide_footer: true
 ### Postdocs
 - [Martínez, Sol Romina](/martinez) (Dpto. Química, UNRC, CONICET)
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
-- [Minudri Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
+- [Minudri, Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
 - Gallastegui, Antonela (Química, UNRC, CONICET)
 
 ### Estudiantes Postgrado

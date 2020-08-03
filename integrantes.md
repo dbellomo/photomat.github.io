@@ -26,7 +26,7 @@ hide_footer: true
 - Spada, Ramiro (Química, UNRC, CONICET)
 - Ponzio, Rodrigo (Física, UBA, CONICET)
 - Cagnetta, Gonzalo (Química, UNRC)
-- Wendel, Ana (Física, UNRC)
+- Wendel, Ana (Física - Química, UNRC)
 
 ### Estudiantes de Grado
 - Forcone, Virginia (Física, UNRC)

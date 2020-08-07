@@ -20,17 +20,17 @@ hide_footer: true
 - [Martínez, Sol Romina](/martinez) (Dpto. Química, UNRC, CONICET)
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
 - [Minudri, Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
-- Gallastegui, Antonela (Química, UNRC, CONICET)
-- Ponzio, Rodrigo (Física, UBA, CONICET)
+- [Gallastegui, Antonela](/gallastegui) (Química, UNRC, CONICET)
+- [Ponzio, Rodrigo](/ponzio) (Física, UBA, CONICET)
 
 ### Estudiantes Postgrado
-- Spada, Ramiro (Química, UNRC, CONICET)
+- [Spada, Ramiro](/spada) (Química, UNRC, CONICET)
 - [Cagnetta, Gonzalo](/gcagnetta.md) (Química, UNRC)
 - [Wendel, Ana](/awendel) (Física - Química, UNRC)
 
 ### Estudiantes de Grado
-- Forcone, Virginia (Física, UNRC)
-- Beauge, Lucia (Microbiología, UNRC)
+- [Forcone, Virginia](/forcone) (Física, UNRC)
+- [Beauge, Lucia](/beauge) (Microbiología, UNRC)
 
 ### Miembros anteriores
 - Arce, Agostina (Estudiante de pregrado Química, graduada!)

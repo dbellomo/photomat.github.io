@@ -14,7 +14,7 @@ Desarrollo de hidrogeles para la fotoinactivación de patógenos asociados a mas
 [Sol Martínez](/martinez), [Gonzalo Cagnetta](/cagnetta), [Luis Ibarra](/ibarra), [Rodrigo Ponzio](/ponzio), [Carlos Chesta](/chesta), [Carina Porporatto](/porporato), [Mariana Spesia](/spesia), [Lorena Gómez](/gomez), [Rodrigo Palacios](/palacios).
 
 ### Congresos
-- ●	"Photoactive dye doped polymeric nanoparticles: an efficient toolbox in photodynamic inactivation of pathogens" Sol Martínez, Luis Ibarra, Rodrigo Ponzio, Ana Wendel, Gonzalo Cagnetta, Virginia Forcone, Carina Porporato, Carlos Chesta, Mariana Spesia, Rodrigo Palacios. XIV ELAFOT, November 11-14th 2019 Viña del Mar, Chile.
+- "Photoactive dye doped polymeric nanoparticles: an efficient toolbox in photodynamic inactivation of pathogens" Sol Martínez, Luis Ibarra, Rodrigo Ponzio, Ana Wendel, Gonzalo Cagnetta, Virginia Forcone, Carina Porporato, Carlos Chesta, Mariana Spesia, Rodrigo Palacios. XIV ELAFOT, November 11-14th 2019 Viña del Mar, Chile.
 
 ### Resumen
 > La lechería ocupa un lugar importante en la economía nacional. Actualmente Argentina es el segundo productor de Latinoamérica después de Brasil y el decimoquinto a nivel mundial. La cadena láctea conforma uno de los complejos agroalimentarios más importantes y dinámicos dentro de la economía argentina, siendo considerada como uno de los principales por su generación de empleo. Una de las enfermedades más importantes que afecta a la industria láctea a nivel nacional y mundial es la mastitis bovina (MB). Esta patología consiste en la inflamación de la glándula mamaria (GM) producida principalmente como respuesta al ingreso de microorganismos patógenos (correspondientes al género Staphylococcus aureus) a través del canal del pezón. 

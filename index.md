@@ -23,7 +23,7 @@ En la actualidad los trabajos de investigación más destacados que llevamos a c
 - [Hidrogeles como sistemas de liberación controlada de fármacos](/hidrogeles)
 - [Geles iónicos para descontaminación de aguas de consumo](/gelesionicos)
 - [Nanogeles para marcado fluorescente y liberación de fármacos](/nanogelesmarcado)
-- Desarrollo de materiales híbridos basados en silsesquioxanos con aplicaciones tecnológicas: fotooxidación de moléculas orgánicas, adsorción de contaminantes, sensores radiométricos de Oxígeno, etc.
+- [Desarrollo de materiales híbridos basados en silsesquioxanos con aplicaciones tecnológicas: fotooxidación de moléculas orgánicas, adsorción de contaminantes, sensores radiométricos de Oxígeno, etc.](/materialeshibridos)
 - Nanopartículas impresas molecularmente para detección de analitos de interés (contaminantes, hormonas, explosivos, etc.), marcado celular específico, etc.
 
 > Nuestro afán por crear nuevos materiales con aplicaciones específicas nos lleva además a profundizar el entendimiento de los principios básicos que determinan la formación y la relación estructura-propiedad de los mismos. Para esto nuestro grupo [desarrolla técnicas de microscopía óptica avanzada](/deyt) de molécula/partícula individual únicos en el país que permiten el estudio detallado de materiales nanoestructurados complejos.

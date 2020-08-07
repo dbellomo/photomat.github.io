@@ -21,6 +21,7 @@ En la actualidad los trabajos de investigación más destacados que llevamos a c
 - [Parches dermatológicos para desinfección y cicatrización de heridas](/parches)
 - Nanopartículas fotoactivas para la síntesis "limpia" de polímeros con aplicaciones biológicas
 - [Hidrogeles como sistemas de liberación controlada de fármacos](/hidrogeles)
+- [Hidrogeles como fotoinactivadores de patógenos asociados a la mastitis bovina](/mastitisbovina)
 - [Geles iónicos para descontaminación de aguas de consumo](/gelesionicos)
 - [Nanogeles para marcado fluorescente y liberación de fármacos](/nanogelesmarcado)
 - [Desarrollo de materiales híbridos basados en silsesquioxanos con aplicaciones tecnológicas: fotooxidación de moléculas orgánicas, adsorción de contaminantes, sensores radiométricos de Oxígeno, etc.](/materialeshibridos)

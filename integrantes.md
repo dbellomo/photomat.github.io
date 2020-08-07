@@ -31,6 +31,9 @@ hide_footer: true
 ### Estudiantes de Grado
 - [Forcone, Virginia](/forcone) (Física, UNRC)
 - [Beaugé, Lucia](/beauge) (Microbiología, UNRC)
+- [Ábalos, Rocio](/abalos) (Qúimica, UNRC)
+- [Zambroni, Emilia](/zambroni) (Qúimica, UNRC)
+- [Alaniz, Dario](/alaniz) (Qúimica, UNRC)
 
 ### Investigadores Adscriptos
 - [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)

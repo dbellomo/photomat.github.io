@@ -25,7 +25,7 @@ hide_footer: true
 
 ### Estudiantes Postgrado
 - [Spada, Ramiro](/spada) (Química, UNRC, CONICET)
-- [Cagnetta, Gonzalo](/gcagnetta) (Química, UNRC)
+- [Cagnetta, Gonzalo] (Química, UNRC)
 - [Wendel, Ana](/awendel) (Física - Química, UNRC)
 
 ### Estudiantes de Grado

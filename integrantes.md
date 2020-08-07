@@ -21,10 +21,10 @@ hide_footer: true
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
 - [Minudri, Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
 - Gallastegui, Antonela (Química, UNRC, CONICET)
+- Ponzio, Rodrigo (Física, UBA, CONICET)
 
 ### Estudiantes Postgrado
 - Spada, Ramiro (Química, UNRC, CONICET)
-- Ponzio, Rodrigo (Física, UBA, CONICET)
 - [Cagnetta, Gonzalo](/gcagnetta.md) (Química, UNRC)
 - [Wendel, Ana](/awendel) (Física - Química, UNRC)
 

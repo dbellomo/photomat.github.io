@@ -17,7 +17,7 @@ image: /img/logo_blanco.jpg
 El desarrollo de nuevos materiales es un desafío permanente para solucionar el sinnúmero de dificultades que le toca afrontar a la sociedad actual, desde enfermedades con un alto índice de mortalidad hasta problemas ambientales. Bajo estas circunstancias el científico ya no solo piensa en el diseño del material desde el punto de vista de ciencia básica, sino en el impacto que tendrá la estructura en las propiedades buscadas. Así, resulta imperioso interiorizarse en las demandas existentes y trabajar en estrecha colaboración con profesionales de otras áreas.
 
 En la actualidad los trabajos de investigación más destacados que llevamos a cabo están centrados en el desarrollo, estudio y aplicación de los siguientes materiales:
-- Nanopartículas fotoactivas para terapias contra el cáncer e infecciones bacterianas (mastitis bovina)
+- Nanopartículas fotoactivas para [terapias contra el cáncer](/nanoparticulascancer) e infecciones bacterianas (mastitis bovina)
 - [Parches dermatológicos para desinfección y cicatrización de heridas](/parches)
 - Nanopartículas fotoactivas para la síntesis "limpia" de polímeros con aplicaciones biológicas
 - [Hidrogeles como sistemas de liberación controlada de fármacos](/hidrogeles)

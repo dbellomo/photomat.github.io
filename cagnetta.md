@@ -3,7 +3,7 @@ title: Gonzalo E. Cagnetta
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Estudiante doctoral CONICET
 image: /img/cagnetta.jpg
-cv: https://drive.google.com/file/d/19hGD9QMSaQRH9ACP3ZKGsnoa2GkCJhd5/view?usp=sharing
+cv: drive.google.com/file/d/19hGD9QMSaQRH9ACP3ZKGsnoa2GkCJhd5/view?usp=sharing
 email: gonzalocagnetta@gmail.com
 layout: integrante
 callouts:

@@ -25,7 +25,7 @@ hide_footer: true
 ### Estudiantes Postgrado
 - Spada, Ramiro (Química, UNRC, CONICET)
 - Ponzio, Rodrigo (Física, UBA, CONICET)
-- [Cagnetta, Gonzalo](/Gcagnetta) (Química, UNRC)
+- [Cagnetta, Gonzalo](/gcagnetta) (Química, UNRC)
 - [Wendel, Ana](/awendel) (Física - Química, UNRC)
 
 ### Estudiantes de Grado

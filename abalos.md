@@ -1,5 +1,5 @@
 ---
-title: Estudiante de grado Rocio Ábalos
+title: Rocio Ábalos
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Química, UNRC<br>Estudiante de Licenciatura en Química
 image: /img/rabalos.jpg

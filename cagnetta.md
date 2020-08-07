@@ -1,5 +1,5 @@
 ---
-title: Estudiante de doctorado Gonzalo E. Cagnetta
+title: Gonzalo E. Cagnetta
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Estudiante doctoral CONICET
 image: /img/cagnetta.jpg

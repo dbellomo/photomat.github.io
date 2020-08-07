@@ -1,7 +1,7 @@
 ---
 title: Estudiante de doctorado Ana B. Wendel
 subtitle: Grupo de Fotoquímica y Materiales
-dpto: Dpto. Física, UNRC<br>Estudiante doctoral CONICET
+dpto: Dpto. de Física, UNRC<br>Estudiante doctoral CONICET
 image: /img/awendel.jpg
 cv: /cv/cvawendel.pdf
 email: ana.wendel93 at gmail.com

@@ -1,7 +1,7 @@
 ---
 title: Estudiante de grado María Virginia Forcone
 subtitle: Grupo de Fotoquímica y Materiales
-dpto: Dpto. Física, UNRC<br>Estudiante de Licenciatura en Física
+dpto: Dpto. de Física, UNRC<br>Estudiante de Licenciatura en Física
 image: /img/vforcone.jpg 
 email: virginiaforcone at gmail.com
 layout: integrante

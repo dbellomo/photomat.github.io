@@ -21,7 +21,7 @@ hide_footer: true
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
 - [Minudri, Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
 - [Gallastegui, Antonela](/gallastegui) (Química, UNRC, CONICET)
-- [Ponzio, Rodrigo](/ponzio) (Física, UBA, CONICET)
+- [Ponzio, Rodrigo](/ponzio) (Física, UNRC, CONICET)
 
 ### Estudiantes Postgrado
 - [Spada, Ramiro](/spada) (Química, UNRC, CONICET)
@@ -30,7 +30,10 @@ hide_footer: true
 
 ### Estudiantes de Grado
 - [Forcone, Virginia](/forcone) (Física, UNRC)
-- [Beauge, Lucia](/beauge) (Microbiología, UNRC)
+- [Beaugé, Lucia](/beauge) (Microbiología, UNRC)
+
+### Investigadores Adscriptos
+- [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
 
 ### Miembros anteriores
 - Arce, Agostina (Estudiante de pregrado Química, graduada!)

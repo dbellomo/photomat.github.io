@@ -1,7 +1,9 @@
 ---
 title: Dr. Luis Ibarra
 subtitle: Grupo de Fotoquímica y Materiales
-layout: page
+dpto: Dpto. Ciencias Biológicas, UNRC<br>Investigador CONICET
+image: /img/libarra.jpg
+layout: integrante
 callouts:
 show_sidebar: false
 hide_footer: true

@@ -8,6 +8,8 @@ hide_footer: true
 
 #### Proyectos financiados en ejecución
 
+- Proyecto: “Nanopartículas poliméricas fotoactivas. Desarrollo y aplicaciones tecnológicas”. Monto $1.170.000 PICT 2018 – 02676. Ejecución 2018-21.
+- Proyecto: “Síntesis y caracterización de partículas multifuncionales de silsesquioxanos para su aplicación en sensado fluorescente y liberación de fármacos”. Monto: $409.500,00. PICT 2016 – 0115. Ejecución 2017-20.
 - Proyecto: "Desarrollo de hidrogeles para fotoinactivación de patógenos asociados a mastitis bovina". Monto: $200.000. PIODO 2018 (MINCyT Córdoba Res. 133/2018). Ejecución 2019-21.
 - Proyecto: "IONGELS: FROM NEW CHEMISTRY TOWARD EMERGING APPLICATIONS". Convocatoria: H2020-MSCA-RISE-2018, Financia: European Commission Research & Innovation. Ejecución 2018-2021
 - Proyecto: "Delivery celular de nanopartículas de polímeros conjugados como estrategia terapéutica en terapia fotodinámica contra glioblastoma". Monto: $35.000. GRFT (MINCyT Córdoba Res. 109/2017). Ejecución 2017-19.

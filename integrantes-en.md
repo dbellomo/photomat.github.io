@@ -1,13 +1,13 @@
 ---
 title: Integrantes
-subtitle: Grupo de Fotoquímica y Materiales
+subtitle: Group of Photochemistry and Materials
 layout: page
 callouts:
 show_sidebar: false
 hide_footer: true
 ---
 
-### Head Researches
+### Principal Investigators
 - [Chesta, Carlos A.](/chesta) (Dpto. Química, UNRC - Investigador Independiente CONICET)
 - [Gomez, M. Lorena](/gomez)  (Dpto. Química, UNRC - Investigadora Independiente CONICET)
 - [Palacios, Rodrigo E.](/palacios) (Dpto. Química, UNRC  - Investigador Independiente CONICET)
@@ -23,7 +23,7 @@ hide_footer: true
 - [Gallastegui, Antonela](/gallastegui) (Química, UNRC, CONICET)
 - [Ponzio, Rodrigo](/ponzio) (Física, UNRC, CONICET)
 
-### PhD Student
+### Graduate Students
 - [Spada, Ramiro](/spada) (Química, UNRC, CONICET)
 - [Cagnetta, Gonzalo](/cagnetta) (Química, UNRC)
 - [Wendel, Ana](/wendel) (Física, UNRC)

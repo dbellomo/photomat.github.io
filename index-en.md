@@ -1,5 +1,5 @@
 ---
-title: Grupo de Fotoquímica y Materiales
+title: Group of Photochemistry and Materials
 subtitle: <b>PhotoMat</b><br>Universidad Nacional de Río Cuarto
 layout: page
 hero_height: is-fullheight
@@ -9,7 +9,7 @@ hide_footer: true
 image: /img/logo_blanco.jpg
 ---
 
-### Quiénes somos y qué hacemos
+### Who we are and what we do
 > Somos un grupo interdisciplinario compuesto por químicos, físicos y biólogos que trabajamos en la Universidad Nacional de Río Cuarto (UNRC) y en institutos de doble dependencia: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET-UNRC). El Grupo de Fotoquímica y Materiales UNRC (PhotoMat-UNRC), liderado conjuntamente por [Carlos Chesta](/chesta), [Lorena Gómez](/gomez), y [Rodrigo Palacios](/palacios), tiene una amplia matriz de intereses que convergen en el desarrollo de nuevos materiales, principalmente poliméricos y nanoestructurados, con potencial aplicación en nanomedicina (humana y animal), remediación ambiental y conversión energética. Para la síntesis, caracterización y aplicación de estos materiales empleamos herramientas fotofísicas, fotoquímicas y biológicas. Dado nuestro entrenamiento como foto-químicos, físicos y biólogos- nos interesa comprender los mecanismos básicos (usualmente fotoiniciados) que tienen lugar durante la preparación, caracterización y/o aplicación de estos materiales novedosos, lo que conduce a mejoras en el proceso de fabricación y/o propiedades deseadas de los materiales desarrollados.
 
 ### Desarrollo y aplicaciones de polímeros nanoestructurados

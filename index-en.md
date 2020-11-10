@@ -1,6 +1,6 @@
 ---
 title: Group of Photochemistry and Materials
-subtitle: <b>PhotoMat</b><br>Universidad Nacional de Río Cuarto
+subtitle: <b>PhotoMat</b><br> National University of Río Cuarto
 layout: page
 hero_height: is-fullheight
 callouts:

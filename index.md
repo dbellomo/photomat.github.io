@@ -34,9 +34,8 @@ En la actualidad los trabajos de investigación más destacados que llevamos a c
 ----
 
 ### Conceptos del Logo
-
 Para el desarrollo del diseño del [logo](/img/case-study.html){:target="_blank"} nos basamos en los siguientes conceptos:
 “PhotoMat es un grupo interdisciplinario de químicos, físicos y biólogos enfocados en la síntesis, estudio y aplicación de nuevos materiales—principalmente poliméricos y nanoestructurados—con gran potencial de aplicación en los campos de la ​nanomedicina, remediación ambiental y conversión energética.
 “Para la ​síntesis​, caracterización y aplicación de estos materiales se emplean frecuentemente ​herramientas fotofísicas y fotoquímicas​, es decir, técnicas basadas en la luz.”
-Diseño de logo e identidad visual a cargo de Sergio Chiavassa, [@schiavassa](https://www.instagram.com/schiavassa/) en Twitter, Instagram, Behance, y Dribbble. 
-{: .notification is-success is-ligh}
+Diseño de logo e identidad visual a cargo de Sergio Chiavassa, [@schiavassa](https://www.instagram.com/schiavassa/) en Twitter, Instagram, Behance, y Dribbble.
+{: .notification}

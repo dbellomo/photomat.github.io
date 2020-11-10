@@ -38,6 +38,9 @@ hide_footer: true
 ### Adscript Researchers
 - [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
 
+### Web Master
+- [Bellomo, Daniel](/Bellomo)
+
 ### Former Members
 - Arce, Agostina (Estudiante de pregrado Química, graduada!)
 - Arce, Anabel  (Estudiante de pregrado Química, graduada!)

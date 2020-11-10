@@ -1,7 +1,8 @@
 ---
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
-layout: page
+layout: iplusd
+image: /imgid/7.Nanogeles marcado fluorescente2.png
 callouts:
 show_sidebar: false
 hide_footer: true

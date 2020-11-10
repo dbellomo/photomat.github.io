@@ -2,7 +2,7 @@
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
 layout: iplusd
-image: /imgid/gelesionicos.jpg
+image: /imgid/6.gelesionicos.jpg
 callouts:
 show_sidebar: false
 hide_footer: true

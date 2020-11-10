@@ -2,7 +2,7 @@
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
 layout: iplusd
-imgage: /imgid/8.Materiales hibridos silsesquioxanos2.png
+image: /imgid/8.Materiales hibridos silsesquioxanos2.png
 callouts:
 show_sidebar: false
 hide_footer: true

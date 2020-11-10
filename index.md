@@ -30,7 +30,9 @@ En la actualidad los trabajos de investigación más destacados que llevamos a c
 > Nuestro afán por crear nuevos materiales con aplicaciones específicas nos lleva además a profundizar el entendimiento de los principios básicos que determinan la formación y la relación estructura-propiedad de los mismos. Para esto nuestro grupo [desarrolla técnicas de microscopía óptica avanzada](/deyt) de molécula/partícula individual únicos en el país que permiten el estudio detallado de materiales nanoestructurados complejos.
 
 > Nuestro grupo de investigación tiene acceso además a [equipamiento avanzado para la síntesis y caracterización](/equipamiento) de los materiales desarrollados y cuenta con numerosas [colaboraciones nacionales e internacionales](/colaboraciones) que fortalecen nuestro trabajo y permiten a los [miembros de nuestro grupo](/integrantes) realizar pasantías en centros de investigación avanzada.
+
 ----
+
 >### Conceptos del Logo
 >Para el desarrollo del diseño del [logo](/img/case-study.html) nos basamos en los siguientes conceptos:
 “PhotoMat es un grupo interdisciplinario de químicos, físicos y biólogos enfocados en la síntesis, estudio y aplicación de nuevos materiales—principalmente poliméricos y nanoestructurados—con gran potencial de aplicación en los campos de la ​nanomedicina, remediación ambiental y conversión energética.

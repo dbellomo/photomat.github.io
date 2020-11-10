@@ -2,7 +2,7 @@
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
 layout: iplusd
-image: /imgid/5.mastitisbovina2.png
+image: /imgid/5. Mastitisbovina2
 callouts:
 show_sidebar: false
 hide_footer: true

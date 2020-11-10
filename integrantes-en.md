@@ -1,5 +1,5 @@
 ---
-title: Integrantes
+title: Group Members
 subtitle: Group of Photochemistry and Materials
 layout: page
 callouts:

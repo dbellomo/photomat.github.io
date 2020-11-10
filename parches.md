@@ -2,7 +2,7 @@
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
 layout: iplusd
-image: /imgid/1.parchedermatologico2.png
+image: /imgid/1.parche.png
 callouts:
 show_sidebar: false
 hide_footer: true

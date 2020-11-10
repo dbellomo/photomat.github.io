@@ -2,7 +2,7 @@
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
 layout: iplusd
-image: /imgid/hidrogeles.png
+image: /imgid/2.hidrogeles.png
 callouts:
 show_sidebar: false
 hide_footer: true

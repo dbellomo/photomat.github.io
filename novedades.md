@@ -10,8 +10,8 @@ hide_footer: true
 # 2020
 
 #### NOVIEMBRE
->El día 27 de noviembre participaremos en la Undécima Edición de la Noche Europea de los investigadores en Argentina. Nuestro taller se titula: “MISIÓN H20 - Experimentos para descontaminar agua” propone el desarrollo de actividades para estudiantes del nivel medio con el fin de que puedan conocer el ámbito científico. Se pretende además dar a conocer las actividades desarrolladas en el marco del Proyecto IONBIKE del que somos parte.
-Para mas información e inscripción al taller visita el [link](http://ccciencia.gob.ar/noche_iberoamericana_investigadores.html)
+>El día 27 de noviembre participamos en la Undécima Edición de la Noche Europea de los investigadores en Argentina. Nuestro taller titulado: “MISIÓN H20 - Experimentos para descontaminar agua” propuso el desarrollo de actividades para estudiantes del nivel medio con el fin de que puedan conocer el ámbito científico. Además, se dieron conocer las actividades desarrolladas en el marco del Proyecto IONBIKE del que somos parte.
+Para mas información consultá la [nota](https://www.exa.unrc.edu.ar/cientificos-de-exactas-participaron-en-noche-europea-de-los-investigadores-e-investigadoras/)
 
 #### OCTUBRE
 >Recientemente fue presentado el sitio web de [Ionbike](http://ionbike-rise.eu/), se trata de un proyecto internacional con participación de investigadores de IITEMA y coordinado a nivel local por los Drs. Gómez y Palacios. Este trabajo entre científicos de distintas partes del mundo es financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea.

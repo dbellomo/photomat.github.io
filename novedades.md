@@ -7,6 +7,11 @@ show_sidebar: false
 hide_footer: true
 ---
 
+# 2021
+
+#### FEBRERO
+>Oportunidad de beca doctoral FONCyT para desarrollar el tema: Síntesis y caracterización de nanopartículas de polímeros conjugados con aplicaciones en la terapía fotodinámica del cancer y en la inactivación microbiana. El concurso cierra el 15/02 de corriente año para comenzar a trabajar el 01/04. Para más información consultá con el director de la Beca Dr. [Carlos Chesta](/chesta). 
+
 # 2020
 
 #### NOVIEMBRE

@@ -15,5 +15,6 @@ Las técnicas de microscopía óptica avanzada de molécula/partícula individua
 - Construcción [Microscopio de Campo Oscuro con capacidad Espectral](/campooscuro)
 =======
 - Construcción [Microscopio de Campo Oscuro con capacidad Espectral](/campooscuro)
+>>>>>>>>> Temporary merge branch 2
 
 >>>>>>> master

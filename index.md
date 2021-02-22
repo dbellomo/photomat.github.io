@@ -27,7 +27,7 @@ En la actualidad los trabajos de investigación más destacados que llevamos a c
 - [Desarrollo de materiales híbridos basados en silsesquioxanos con aplicaciones tecnológicas: fotooxidación de moléculas orgánicas, adsorción de contaminantes, sensores radiométricos de Oxígeno, etc.](/materialeshibridos)
 - Nanopartículas impresas molecularmente para detección de analitos de interés (contaminantes, hormonas, explosivos, etc.), marcado celular específico, etc.
 
-> Nuestro afán por crear nuevos materiales con aplicaciones específicas nos lleva además a profundizar el entendimiento de los principios básicos que determinan la formación y la relación estructura-propiedad de los mismos. Para esto nuestro grupo [desarrolla técnicas de microscopía óptica avanzada](/deyt) de molécula/partícula individual únicos en el país que permiten el estudio detallado de materiales nanoestructurados complejos.
+> Nuestro afán por crear nuevos materiales con aplicaciones específicas nos lleva además a profundizar el entendimiento de los principios básicos que determinan la formación y la relación estructura-propiedad de los mismos. Para esto nuestro grupo [desarrolla técnicas de microscopía óptica avanzada](/autofoco) de molécula/partícula individual únicos en el país que permiten el estudio detallado de materiales nanoestructurados complejos.
 
 > Nuestro grupo de investigación tiene acceso además a [equipamiento avanzado para la síntesis y caracterización](/equipamiento) de los materiales desarrollados y cuenta con numerosas [colaboraciones nacionales e internacionales](/colaboraciones) que fortalecen nuestro trabajo y permiten a los [miembros de nuestro grupo](/integrantes) realizar pasantías en centros de investigación avanzada.
 

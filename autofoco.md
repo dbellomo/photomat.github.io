@@ -2,6 +2,7 @@
 title: Desarrollo de equipos y técnicas
 subtitle: Grupo de Fotoquímica y Materiales
 layout: page
+image: /img/autofoco3.png
 callouts:
 show_sidebar: false
 hide_footer: true
@@ -20,4 +21,3 @@ hide_footer: true
 El control de foco (Figura 2) registra la posición de la muestra respecto del objetivo mediante un método óptico y la corrige activamente, a través de un lazo de realimentación, manteniéndola estable en un rango menor a la profundidad de foco del objetivo utilizado (~500 nm) por períodos de varias horas. Por otro lado, dicho control tiene un tiempo de respuesta ante perturbaciones menor a 1 s, lo que es suficiente para eliminar o minimizar los efectos de deriva de foco de la muestra. El control de foco es esencial para realizar experimentos prolongados de microscopia de fluorescencia y en particular la aplicación de nanoscopías por localización. 
 Dicho sistema se encuentra actualmente en funcionamiento (Figura 1 y 3) y está continuamente sometido a pruebas de funcionamiento y optimizaciones para mejorar su desempeño.
 
-image: /img/chesta.jpg

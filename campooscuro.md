@@ -2,12 +2,13 @@
 title: Desarrollo de equipos y técnicas
 subtitle: Grupo de Fotoquímica y Materiales
 layout: page
+image: /img/campooscuro3.png
 callouts:
 show_sidebar: false
 hide_footer: true
 ---
 
-### Desarrollo de sistema de Autofoco para microscopio óptico
+### Construcción Microscopio de Campo Oscuro con capacidad Espectral
 
 ### Integrantes
 [Ana Wendel](/wendel), [Rodrigo Ponzio](/ponzio), [Rodrigo Palacios](/palacios).

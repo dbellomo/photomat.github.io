@@ -1,11 +1,12 @@
 ---
 title: Desarrollo de equipos y técnicas
 subtitle: Grupo de Fotoquímica y Materiales
-layout: page
+layout: iplusd
 image: /img/autofoco3.png
 callouts:
 show_sidebar: false
 hide_footer: true
+
 ---
 
 ### Desarrollo de sistema de Autofoco para microscopio óptico

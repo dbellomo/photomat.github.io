@@ -1,7 +1,7 @@
 ---
 title: Desarrollo de equipos y técnicas
 subtitle: Grupo de Fotoquímica y Materiales
-layout: page
+layout: iplusd
 image: /img/campooscuro3.png
 callouts:
 show_sidebar: false

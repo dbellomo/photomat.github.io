@@ -38,8 +38,11 @@ hide_footer: true
 ### Investigadores Adscriptos
 - [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
 
-### Web Master
-- [Bellomo, Daniel](/Bellomo)
+### Equipo Desarrollo Web
+- Wendel, Ana
+- Cagnetta, Gonzalo
+- Palacios, Rodrigo
+- Bellomo, Daniel
 
 ### Miembros anteriores
 - Arce, Agostina (Estudiante de pregrado Química, graduada!)

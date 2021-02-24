@@ -2,7 +2,8 @@
 title: PhotoMat
 tagline: PhotoMat
 email: your-email@domain.com
-description: Grupo de Fotoquímica y Materiales<br>PhotoMat<br>Universidad Nacional de Río Cuarto
+description: >
+  Grupo de Fotoquímica y Materiales<br>PhotoMat<br>UNRC
 baseurl: ""
 url: "https://photomat.ar"
 permalink: pretty
@@ -50,9 +51,19 @@ defaults:
     values:
       author: ""
       layout: post
+      image: https://via.placeholder.com/1200x800
       show_sidebar: true
 
 markdown: kramdown
 highlighter: rouge
+
+footer_menu: example_footer_menu
+
+collections:
+  products:
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
 
 lang: es_AR

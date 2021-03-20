@@ -27,15 +27,14 @@ hide_footer: true
 - [Spada, Ramiro](/spada) (Química, UNRC, CONICET)
 - [Cagnetta, Gonzalo](/cagnetta) (Química, UNRC)
 - [Wendel, Ana](/wendel) (Física, UNRC)
+- [Beaugé, Lucia](/beauge) (Microbiología, UNRC)
+- [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
+- [Sosa Lochedino, Arianna](/lochedino) (Química, UNRC, CONICET)
 
 ### Estudiantes de Grado
 - [Forcone, Virginia](/forcone) (Física, UNRC)
-- [Beaugé, Lucia](/beauge) (Microbiología, UNRC)
 - [Ábalos, Rocio](/abalos) (Qúimica, UNRC)
 - [Zambroni, Emilia](/zambroni) (Qúimica, UNRC)
-
-### Investigadores Adscriptos
-- [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
 
 ### Equipo Desarrollo Web
 - Wendel, Ana

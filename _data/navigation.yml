@@ -9,8 +9,10 @@
       link: /hidrogeles/
     - name: Desarrolo de equipos y técnicas
       link: /deyt/
-    - name: Nanopartículas fotoactivas para terapias contra el cáncer y para eliminar bacterias resistentes a antibióticos
+    - name: Nanopartículas fotoactivas para eliminar bacterias resistentes a antibióticos
       link: /nanoparticulasbiofilm/
+    - name: Nanopartículas fotoactivas para terapias contra el cáncer
+      link: /nanoparticulascancer/
     - name: Hidrogeles como fotoinactivadores de patógenos asociados a la mastitis bovina
       link: /mastitisbovina/
     - name: Geles iónicos para descontaminación de aguas de consumo

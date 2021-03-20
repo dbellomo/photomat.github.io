@@ -2,5 +2,4 @@
 2- Que los proyectos tengas un lugar para imagenes y que esté centrada (Desarrollo de geles iónicos para descontaminación de aguas de consumo)
 3- Integrantes del index armar glaeria de fotos de integrantes.
 4- Seleccionar idiomas archivo integrantes
-5-Modificar el logo en la parte de arriba (achatado)
 6-Ver que en clases de bulma no toma los colores https://bulma.io/documentation/elements/notification/

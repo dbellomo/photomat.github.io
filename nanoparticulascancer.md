@@ -1,7 +1,7 @@
 ---
 title: Proyectos de Investigación y Desarrollo
 subtitle: Grupo de Fotoquímica y Materiales
-layout: page
+layout: iplusd
 image: /imgid/Cancer.png
 callouts:
 show_sidebar: false

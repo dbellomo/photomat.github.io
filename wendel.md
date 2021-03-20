@@ -4,7 +4,7 @@ subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Física, UNRC<br>Estudiante doctoral CONICET
 image: /img/awendel.jpg
 cv: drive.google.com/file/d/1k1kZDXrFgO5mamBGmeywdeIIYwunJvnD/view
-email: ana.wendel93 at gmail.com
+email: ana.wendel93@gmail.com
 layout: integrante
 callouts:
 show_sidebar: false

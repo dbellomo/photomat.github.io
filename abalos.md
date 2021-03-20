@@ -3,7 +3,7 @@ title: Rocio Ábalos
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Química, UNRC<br>Estudiante de Licenciatura en Química
 image: /img/rabalos.jpg
-email: roabalos1d at gmail.com
+email: roabalos1d@gmail.com
 layout: integrante
 callouts:
 show_sidebar: false

@@ -3,7 +3,7 @@ title: Virginia Forcone
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Física, UNRC<br>Estudiante de Licenciatura en Física
 image: /img/vforcone.jpg 
-email: virginiaforcone at gmail.com
+email: virginiaforcone@gmail.com
 layout: integrante
 callouts:
 show_sidebar: false

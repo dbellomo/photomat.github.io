@@ -2,7 +2,7 @@
 title: Lic. Arianna Lourdes Sosa Lochedino
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Estudiante doctoral CONICET
-image: C:\Users\gonza\Dropbox\PhotoMat\Webpage\Fotos\Grupo\Actual Members\IMG-20210215-WA0001 (2).jpg
+image: /img/alochedino.jpg
 cv: 
 email: 
 layout: integrante

@@ -3,7 +3,7 @@ title: Dra. Sol Romina Martínez
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Química, UNRC
 layout: integrante
-image: C:\Users\gonza\Dropbox\PhotoMat\Webpage\Fotos\Grupo\Actual Members\Sol.jpg 
+image: /img/smartinez.jpg
 cv:
 orcid:
 email: martinezsolr@gmail.com

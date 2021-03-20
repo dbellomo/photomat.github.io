@@ -3,7 +3,7 @@ title: María Emilia Zambroni
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Química, UNRC<br>Estudiante de Licenciatura en Química
 image: /img/ezambroni.jpg 
-email: mimizambroni at gmail.com
+email: mimizambroni@gmail.com
 layout: integrante
 callouts:
 show_sidebar: false

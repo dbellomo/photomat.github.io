@@ -3,7 +3,7 @@ title: Dr. Rodrigo Ponzio
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Física, UNRC
 image: /img/rponzio.jpg 
-email: 
+email: rponzio@exa.unrc.edu.ar
 layout: integrante 
 callouts:
 show_sidebar: false

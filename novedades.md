@@ -7,6 +7,14 @@ show_sidebar: false
 hide_footer: true
 ---
 
+# 2021
+
+#### ABRIL
+> El 1 de abril [Matías Caverzán](/caverzan) comenzó sus estudios doctorales el cual se titula "Desarrollo y evaluación preclínica de nanopartículas poliméricas fotoactivables para su implementación en Terapia Fotodinámica contra el Glioblastoma" bajo la dirección de los Drs. [Carlos Chesta](/chesta) y [Luis Ibarra.](/ibarra) ¡Éxitos en esta nueva etapa!
+
+#### MARZO
+>La estudiante en Física, [Virginia Forcone](/forcone) defendió su tesis final de grado titulada: "Desarrollo de un microscopio confocal de fluorescencia: elaboración de un software para adquisición y análisis de imágenes". La misma fue dirigida por el Dr. [Rodrigo E. Palacios](/palacios) (UNRC) y co-dirigida por el Dr. [Rodrigo Ponzio](/ponzio) (UNRC). ¡Felicitaciones a la nueva licenciada en física!
+
 
 # 2020
 

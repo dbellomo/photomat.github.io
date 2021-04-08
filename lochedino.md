@@ -4,7 +4,7 @@ subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Estudiante doctoral CONICET
 image: /img/alochedino.jpg
 cv: 
-email: 
+email: ariannasosalochedino@gmail.com
 layout: integrante
 callouts:
 show_sidebar: false

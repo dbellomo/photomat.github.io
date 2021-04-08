@@ -3,7 +3,7 @@ title: Lucia Beaugé
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Ciencias Biológicas, UNRC<br>Estudiante de Microbiología
 image: /img/lbeauge.jpg 
-email: 
+email: lubeauge@gmail.com
 layout: integrante
 callouts:
 show_sidebar: false

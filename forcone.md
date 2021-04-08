@@ -10,4 +10,6 @@ show_sidebar: false
 hide_footer: true
 ---
 
-Estudiante del quinto año de Licenciatura en Física UNRC. Fue becaria CIN durante el 2019 (Tema: “Desarrollo de sistema autofoco para un microscopio de fluorescencia invertido”, Director: Rodrigo Palacios, Codirector: Rodrigo Ponzio). Se encuentra también realizando su tesis final de grado, bajo dirección de Rodrigo Ponzio y Rodrigo Palacios, la cual consiste en el desarrollo de un sistema de microscopía confocal a partir de un microscopio de fluorescencia invertido de campo amplio.
+Se recibió de Licenciada en Física (2021). Su trabajo final de grado estuvo bajo la dirección de Rodrigo A. Ponzio y Rodrigo E. Palacios y se tituló “Desarrollo de un microscopio confocal de fluorescencia: elaboración de un software para adquisición y análisis de imágenes”, la cual consistió en el desarrollo de un sistema de microscopía confocal a partir de la modificación del camino óptico de un microscopio de fluorescencia invertido personalizado de campo amplio.
+Fue becaria CIN durante el 2019 (Tema: “Desarrollo de sistema autofoco para un microscopio de fluorescencia invertido”, Director: Rodrigo Palacios, Codirector: Rodrigo Ponzio).
+

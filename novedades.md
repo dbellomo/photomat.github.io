@@ -10,7 +10,7 @@ hide_footer: true
 # 2021
 
 #### ABRIL
->Estamos en el congreso CAFQI XXII!!! Podés ver nuestros póster en la página web del congreso [@CAFQI2021](https://congresos.unlp.edu.ar/xxiicafqi/?page_id=564) o también en nuestro twitter [@PhotoMat](twitter.com/PhotomatUnrc). Además, la [Dra. Sol Martinez](/martinez) presentará su póster oral titulado "¿Qué Podemos hacer con una Impresora 3D y Ácido Poliláctico?: Adsorber un Fotosensibilizador y Obtener Materiales Antimicrobianos Super Económicos"
+>Estamos en el congreso CAFQI XXII!!! Podés ver nuestros póster en la página web del congreso [@CAFQI2021](https://congresos.unlp.edu.ar/xxiicafqi/?page_id=564) o también en nuestro twitter [@PhotoMat](https://twitter.com/PhotomatUnrc?s=20). Además, la [Dra. Sol Martinez](/martinez) presentará su póster oral titulado "¿Qué Podemos hacer con una Impresora 3D y Ácido Poliláctico?: Adsorber un Fotosensibilizador y Obtener Materiales Antimicrobianos Super Económicos"
 
 > El 1 de abril [Matías Caverzán](/caverzan) comenzó sus estudios doctorales el cual se titula "Desarrollo y evaluación preclínica de nanopartículas poliméricas fotoactivables para su implementación en Terapia Fotodinámica contra el Glioblastoma" bajo la dirección de los Drs. [Carlos Chesta](/chesta) y [Luis Ibarra.](/ibarra) ¡Éxitos en esta nueva etapa!
 

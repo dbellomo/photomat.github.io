@@ -10,6 +10,10 @@ hide_footer: true
 # 2021
 
 #### ABRIL
+> El 1 de abril [Arianna Sosa Lochedino](/lochedino) comenzó sus estudios doctorales el cual se titula "Síntesis y caracterización de nanopartículas de polímeros conjugados con aplicaciones en la terapia fotodinámica contra el cáncer y la inactivación fotodinámica microbiana" bajo la dirección de los Drs. [Rodrigos Palacios](/palacios) y [Carlos Chesta](/chesta) ¡Éxitos en esta nueva etapa!
+Recordá que también podés conocer nuestros integrantes y proyectos en nuestras redes [Instagram](https://www.instagram.com/photomat.unrc/) o [Facebook](https://www.facebook.com/PhotoMat-UNRC-681159092336902).
+
+#### ABRIL
 >Estamos en el congreso CAFQI XXII!!! Podés ver nuestros póster en la página web del congreso [@CAFQI2021](https://congresos.unlp.edu.ar/xxiicafqi/?page_id=564) o también en nuestro twitter [@PhotoMat](https://twitter.com/PhotomatUnrc?s=20). Además, la [Dra. Sol Martinez](/martinez) presentará su póster oral titulado "¿Qué Podemos hacer con una Impresora 3D y Ácido Poliláctico?: Adsorber un Fotosensibilizador y Obtener Materiales Antimicrobianos Super Económicos"
 
 > El 1 de abril [Matías Caverzán](/caverzan) comenzó sus estudios doctorales el cual se titula "Desarrollo y evaluación preclínica de nanopartículas poliméricas fotoactivables para su implementación en Terapia Fotodinámica contra el Glioblastoma" bajo la dirección de los Drs. [Carlos Chesta](/chesta) y [Luis Ibarra.](/ibarra) ¡Éxitos en esta nueva etapa!

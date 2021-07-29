@@ -42,4 +42,7 @@ jobs:
         gem install bundler
         bundle install
         npm install
-        
+    - name: Build site
+      run: |
+        npm run css-build
+        bundle exec jekyll build
